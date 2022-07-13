@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(const MyApp());
+  //THIS CHANGE IS ADDED TO GITHUB MAIN BRANCH
 }
 
 class MyApp extends StatelessWidget {
